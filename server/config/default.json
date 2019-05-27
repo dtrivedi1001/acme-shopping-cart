@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://<UserName>:<Password>@dashboarddb-fivzq.mongodb.net/test?retryWrites=true"
+}

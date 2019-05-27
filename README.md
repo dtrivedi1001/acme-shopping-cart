@@ -1,6 +1,6 @@
 # ACME Shopping Cart
 
-This `two` pages shopping cart app. When you load the app, you will get inventory page with available product. Once you add the product into the cart and you hit `Proceed to Cart` you will go to checkout page.
+This `two` page shopping cart app. When you load the app, you will get inventory page with available product. Once you add the product into the cart and you hit `Proceed to Cart` you will go to checkout page.
 
 ## Getting Started
 
